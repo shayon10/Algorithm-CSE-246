@@ -1,6 +1,6 @@
 #include <bits/stdc++.h>
 using namespace std;
-int mx = 1e9+999;
+int mx = 9999999;
 int store[10000];
 void  path_printing(int Dp[],int n,int k) {
   int temp[n+1];
